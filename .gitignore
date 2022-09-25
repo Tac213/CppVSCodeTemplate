@@ -1,0 +1,45 @@
+# build files
+build/
+
+# clangd cache files
+.cache/
+
+# ide files
+.vs/
+.idea/
+
+# vim files
+*.swp
+*.swo
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Compiled SPIR-V files
+*.spv
+
+# Executables
+*.exe
+*.out
+*.app
+
+# pycache files
+__pycache__/
+*.pyc
+
+# Misc
+.DS_Store
